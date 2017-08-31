@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
 
-  background: #151515 url("../images/bkg.png") 0 0;
+  background: #151515 url("../img/bkg.png") 0 0;
   font: 16px;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: #eaeaea;
@@ -234,7 +234,7 @@ hr {
 
 .btn-github .icon {
   opacity: 0.6;
-  background: url("../images/blacktocat.png") 0 0 no-repeat;
+  background: url("../img/blacktocat.png") 0 0 no-repeat;
 }
 
 /* Links

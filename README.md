@@ -3,7 +3,7 @@ Python--Faster-Way
 
 Python: Faster Way
 
-http://wadarochi.github.io/Python--Faster-Way/
+http://wadarochi.github.io/2017/09/01/python-faster-way/
 
 
 Creating a new test: 
